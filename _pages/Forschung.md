@@ -1,5 +1,6 @@
 ---
-title: "Forschung"
 permalink: /forschung/
+title: "Forschung"
 ---
-Hier steht die Forschung.
+
+Hier stehen Forschungsartikel.
