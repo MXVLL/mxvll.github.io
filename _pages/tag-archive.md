@@ -1,6 +1,7 @@
 ---
-title: "Posts by Tag"
-permalink: /tags/
+title: "Team"
+permalink: /team/
 layout: tags
 author_profile: true
 ---
+Hier steht das Team.
