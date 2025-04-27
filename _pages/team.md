@@ -1,7 +1,6 @@
----
-title: "Team"
-layout: simple
+------
 permalink: /team/
-author_profile: true
+title: "Team"
 ---
+
 Hier steht das Team. 
