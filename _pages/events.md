@@ -1,6 +1,5 @@
 ---
 title: "Events"
 permalink: /events/
-layout: posts
-author_profile: true
 ---
+Hier stehen Events.
