@@ -1,4 +1,4 @@
-------
+---
 permalink: /team/
 title: "Team"
 ---
