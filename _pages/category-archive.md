@@ -1,6 +1,7 @@
 ---
-title: "Posts by Category"
-layout: categories
-permalink: /categories/
+title: "Team"
+layout: simple
+permalink: /team/
 author_profile: true
 ---
+Hier steht das Team. 
