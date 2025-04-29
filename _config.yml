@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "FoGG"
+  name   : "For the Greater Good"
   avatar : "/assets/images/FoGG_logo_stand-alone_black.png"
   bio    : "Deepfakes in der Strafverfolgung"
   links:
@@ -77,9 +77,6 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
