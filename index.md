@@ -5,7 +5,8 @@
 layout: single
 author_profile: true
 ---
-
+# For the Greater Good? Deepfakes in der Strafverfolgung
+![FoGG Bild](FoGG_logo_stand-alone_black.png)
 Mit generativer Künstlicher Intelligenz (KI) können selbst Laien heutzutage relativ schnell und einfach synthetische Medien generieren. Insbesondere betrifft dies Deepfakes, welche mitunter sehr realistisch aussehen und gezielt für Täuschungen eingesetzt werden können. Für die Strafverfolgung ergibt sich daraus ein ungeahntes Potenzial, denn verdeckte Ermittlungen können Stimm-, Sprach- und Videoklone einsetzen. Jedoch stellen sich bei der Verwendung von Deepfakes diverse technische, juristische und ethische Fragen.
 
 Was ist technisch möglich? Was ist rechtlich erlaubt? Und welche ethischen und gesellschaftlichen Konsequenzen ergeben sich? Das vorliegende Projekt setzt sich zum Ziel, diese Fragen aus interdisziplinärer Perspektive zu beleuchten, konkrete Empfehlungen für Gesellschaft und Ermittlerinnen und Ermittler im Umgang mit Deepfakes zu erarbeiten und diese mithilfe eines interaktiven Demonstrators in die Praxis zu bringen. Im Zentrum steht die Frage, unter welchen Umständen und in welchem Maße der Einsatz von Deepfakes gesellschaftlich akzeptabel ist.
