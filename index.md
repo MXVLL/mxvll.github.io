@@ -4,6 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
+title: "For the Greater Good? Deepfakes in der Strafverfolgung"
 ---
 <img src="/assets/images/logo_abbreviation_black_transparent.png" alt="Descriptive alt text" style="width: 100%; max-width: 600px;">
 
